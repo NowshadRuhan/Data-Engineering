@@ -7,7 +7,7 @@ But I realised that this full tasks can be solve using only python code;
 You can check full python code and instructions in '''data_engineering.ipynb'''.
 
 # Where in beginning I processed:
-## 1. Duplicate events (same event_id repeated)
+### 1. Duplicate events (same event_id repeated)
 ## 2. Conflicting duplicates (same event_id, different payload such as amount/currency)
 ## 3. Out‑of‑order events (file order is not time order)
 ## 4. Late/early timestamps (including refunds that appear earlier than purchase timestamps)
