@@ -24,12 +24,12 @@ You can check full python code and instructions in '''data_engineering.ipynb'''.
 
 #### Build “gold” analytics tables that can answer:
 
-#### DAU: daily active users
-#### Revenue: gross and net (refund‑adjusted) daily revenue
-#### MRR: monthly recurring revenue (subscription‑based; not the same as revenue)
-#### Weekly cohort retention: based on signup week
-#### CAC: customer acquisition cost (paid conversions / spend)
-#### LTV: per user lifetime value (refund‑adjusted)
-#### LTV:CAC ratio
+#### 1. DAU: daily active users
+#### 2. Revenue: gross and net (refund‑adjusted) daily revenue
+#### 3. MRR: monthly recurring revenue (subscription‑based; not the same as revenue)
+#### 4. Weekly cohort retention: based on signup week
+#### 5. CAC: customer acquisition cost (paid conversions / spend)
+#### 6. LTV: per user lifetime value (refund‑adjusted)
+#### 7. LTV:CAC ratio
 
 if you have any questions or need furthermore information contact me in email: nowshad.cse@gmail.com
